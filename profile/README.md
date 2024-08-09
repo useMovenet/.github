@@ -1,6 +1,4 @@
-Here’s the updated README based on the template you provided:
 
----
 
 <div id="top"></div>
 
